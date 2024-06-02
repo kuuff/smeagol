@@ -28,10 +28,10 @@ pretty_env_logger = "0.5"
 pulldown-cmark = { version = "0.9", default-features = false }
 rand = "0.8.5"
 regex = { version = "1.10.3", features = ["std"] }
-rocket = "0.5.0"
+rocket = "0.5.1"
 serde = { version = "1.0", features = ["derive"] }
 strum = "0.25"
 strum_macros = "0.25"
-tantivy = "0.20"
+tantivy = "0.22.0"
 thiserror = "1.0"
 toml = "0.7"
